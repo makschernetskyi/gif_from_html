@@ -1,0 +1,26 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	margin:0;
+	padding:0;
+	background:limegreen;
+}
+
+.App{
+	padding: 10px;
+	text-align: left;
+	width: 1000px;
+	font: 60pt "BPdotsSquares";
+	display: flex;
+	flex-direction: row
+}
+
+p::before{
+	content:">";
+}
+p::after{
+	content:"_";
+}
