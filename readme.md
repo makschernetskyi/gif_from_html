@@ -1,6 +1,7 @@
 <h1>gif made of html</h1>
 <br/>
-It's the code responsible for creating "Hello there" in my readme header
+The code in this repo is responsible for creating "Hello there" in my readme header
+<br/>
 <br/>
 <img src="demo/demo.jpg" width="500px">
 <br/>
